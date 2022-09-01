@@ -2,9 +2,10 @@ package com.user;
 
 public class Demo {
 
-	public int getData(int a,int b) {
+	public int getData(int a,int b,int c) {
 		a=10;
 		b=10;
-		return a*b;
+		c=10;
+		return a*b*c;
 	}
 }
