@@ -6,6 +6,7 @@ public class Demo {
 		a=10;
 		b=10;
 		c=10;
+		d=10;
 		return a*b*c;
 	}
 }
